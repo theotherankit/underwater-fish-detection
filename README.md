@@ -85,3 +85,5 @@ python baseline.py \
 
 - Trained model weights saved under `model_weight/`
 - Training curves and performance metrics stored as `training_curves.png`
+
+Please mention this repository in your work if you find it useful.
